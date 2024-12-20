@@ -69,6 +69,7 @@ endmodule
 ![RTL 11](https://github.com/user-attachments/assets/555dd08f-34de-49a9-840f-f7173f44cf27)
 
 **TRUTH TABLE**
+
 ![TRUTH TABLE 11](https://github.com/user-attachments/assets/b31ebe67-7b62-4f16-9905-5e7010b8c209)
 
 **RESULTS**
