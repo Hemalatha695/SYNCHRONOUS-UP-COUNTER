@@ -59,7 +59,7 @@ if(!rstn)
 out <= out+1;
 
  end 
-
+ 
 endmodule
 
 **RTL LOGIC UP COUNTER**
